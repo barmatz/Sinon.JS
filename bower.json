@@ -1,0 +1,28 @@
+{
+  "name": "sinon-build",
+  "version": "1.10.0",
+  "homepage": "https://github.com/barmatz/Sinon.JS",
+  "main": "pkg/sinon.js",
+  "authors": [
+    "Christian Johansen"
+  ],
+  "description": "Prebuilt project of Sinon.JS. Test spies, stubs and mock for JavaScript",
+  "keywords": [
+    "sinon",
+    "javascript",
+    "test",
+    "testing",
+    "unit"
+    "tdd",
+    "spies",
+     "spy"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
